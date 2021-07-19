@@ -1,0 +1,10 @@
+-
+  create_user:
+    nickname: 'autouser'
+    name: 'autouser'
+    tele: '13334568751'
+    email: '13334568718@qq.com'
+    password : '1qaz@2wsx'
+    bumen: '系统管理部'
+  edit_user:
+    nickname: 'autouseredit'

@@ -1,0 +1,6 @@
+-
+    create_role:
+      rolename: '自动化测试角色'
+      roledescription: '自动化测试角色'
+    edit_role:
+        rolename: '自动化测试角色编辑'

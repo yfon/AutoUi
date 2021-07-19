@@ -1,0 +1,7 @@
+-
+    username: admin
+    password: 1qaz@2wsx
+# data2:
+#  username: admin1
+#  password: 1qaz@2wsx
+# 用例会去循环调用这里的数据-->使用了ddt的装饰器

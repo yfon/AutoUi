@@ -1,0 +1,12 @@
+-
+  dev_application:
+    dev_name: '新建自动化开发应用'
+    mic_code: 'dev_application'
+  edit_data:
+    dev_name: '编辑自动化开发应用'
+    mic_code: 'dev_application'
+  user_application:
+    name: '新建自动化用户应用'
+    code: 'user_applicaiton'
+  edit_user_data:
+    name: '编辑自动化用户应用'

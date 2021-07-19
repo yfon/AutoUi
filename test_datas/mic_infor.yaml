@@ -1,0 +1,9 @@
+-
+  create_data:
+    mic_name: '新建自动化测试微服务'
+    mic_code: 'm8code'
+    mic_path: '/m8code/**'
+  edit_data:
+    mic_name: '编辑自动化测试微服务'
+    mic_code: 'm8code'
+    mic_path: '/m8code/**'
